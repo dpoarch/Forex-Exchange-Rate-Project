@@ -1,0 +1,9 @@
+C:\Users\Gray\Desktop\SpencerGifts\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.DAL\bin\Debug\SpencerGifts.ExchangeRatesUpdater.DAL.dll
+C:\Users\Gray\Desktop\SpencerGifts\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.DAL\bin\Debug\SpencerGifts.ExchangeRatesUpdater.DAL.pdb
+C:\Users\Gray\Desktop\SpencerGifts\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.DAL\obj\Debug\SpencerGifts.ExchangeRatesUpdater.DAL.dll
+C:\Users\Gray\Desktop\SpencerGifts\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.DAL\obj\Debug\SpencerGifts.ExchangeRatesUpdater.DAL.pdb
+C:\Users\Greecos_09\Desktop\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.DAL\bin\Debug\SpencerGifts.ExchangeRatesUpdater.DAL.dll
+C:\Users\Greecos_09\Desktop\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.DAL\bin\Debug\SpencerGifts.ExchangeRatesUpdater.DAL.pdb
+C:\Users\Greecos_09\Desktop\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.DAL\obj\Debug\SpencerGifts.ExchangeRatesUpdater.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Greecos_09\Desktop\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.DAL\obj\Debug\SpencerGifts.ExchangeRatesUpdater.DAL.dll
+C:\Users\Greecos_09\Desktop\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.DAL\obj\Debug\SpencerGifts.ExchangeRatesUpdater.DAL.pdb

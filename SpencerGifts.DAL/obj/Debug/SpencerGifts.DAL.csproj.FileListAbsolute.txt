@@ -1,0 +1,5 @@
+C:\Users\Gray\Desktop\SpencerGifts\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.DAL\obj\Debug\SpencerGifts.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Gray\Desktop\SpencerGifts\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.DAL\bin\Debug\SpencerGifts.DAL.dll
+C:\Users\Gray\Desktop\SpencerGifts\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.DAL\bin\Debug\SpencerGifts.DAL.pdb
+C:\Users\Gray\Desktop\SpencerGifts\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.DAL\obj\Debug\SpencerGifts.DAL.dll
+C:\Users\Gray\Desktop\SpencerGifts\SpencerGifts.ExchangeRatesUpdater\SpencerGifts.DAL\obj\Debug\SpencerGifts.DAL.pdb
